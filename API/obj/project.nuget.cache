@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "g0D5RyxgJawQJsPy9TVSrzZePgfZwtg2C/cCEG+9TJussCXUqYjU9xGxPewqZyyBiYhrEahJog+ZzRDv9WRxPg==",
+  "dgSpecHash": "9XxePdBQOBSwfIzWeYdd+0Uc/YI45iTcn+P8XJ5eN13sxyyiKG22gP3MJAf435tQQ+LcTH+LxgpJFmw34Pgr6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\API\\API.csproj",
+  "projectFilePath": "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ssouvall\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\ssouvall\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\ssouvall\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ssouvall\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
+    "C:\\Users\\ssouvall\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\ssouvall\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.7\\microsoft.data.sqlite.core.7.0.7.nupkg.sha512",
     "C:\\Users\\ssouvall\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.7\\microsoft.entityframeworkcore.7.0.7.nupkg.sha512",
     "C:\\Users\\ssouvall\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.7\\microsoft.entityframeworkcore.abstractions.7.0.7.nupkg.sha512",
