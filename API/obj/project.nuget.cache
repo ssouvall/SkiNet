@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9XxePdBQOBSwfIzWeYdd+0Uc/YI45iTcn+P8XJ5eN13sxyyiKG22gP3MJAf435tQQ+LcTH+LxgpJFmw34Pgr6g==",
+  "dgSpecHash": "XvstGUlPmcRKKXS5YNWZYTudMvtsA1MlCdNOyo1BzOmFOh+mAiDTujLDIWpLiaxpno7Uo2l5+/PKwQQAuRAXQQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ssouvall\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ssouvall\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

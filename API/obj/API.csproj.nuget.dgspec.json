@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\API\\API.csproj": {}
+    "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\API\\API.csproj": {
+    "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\API\\API.csproj",
+        "projectPath": "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\ssouvall\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\API\\obj\\",
+        "outputPath": "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ssouvall\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,14 +21,16 @@
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -89,14 +91,14 @@
         }
       }
     },
-    "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Core\\Core.csproj": {
+    "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ssouvall\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Core\\obj\\",
+        "outputPath": "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ssouvall\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,14 +146,14 @@
         }
       }
     },
-    "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ssouvall\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ssouvall\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -168,8 +170,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Core\\Core.csproj": {
-                "projectPath": "c:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Core\\Core.csproj"
+              "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\ssouvall\\source\\repos\\learning-projects\\skinet\\Core\\Core.csproj"
               }
             }
           }
